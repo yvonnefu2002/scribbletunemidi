@@ -1,0 +1,22 @@
+{
+  "name": "scribbletunemidi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvonnefu2002/scribbletunemidi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvonnefu2002/scribbletunemidi/issues"
+  },
+  "homepage": "https://github.com/yvonnefu2002/scribbletunemidi#readme",
+  "dependencies": {
+    "scribbletune": "^3.2.1"
+  }
+}
